@@ -97,4 +97,3 @@ function saveObjectToLocalStorage(object) {
 const myObject1 = { name2: 'kashan', age2: 15 };
 const retrievedObject = saveObjectToLocalStorage(myObject1);
 console.log(retrievedObject);
-
